@@ -1,0 +1,34 @@
+.section_download_app {
+    height: 550px;
+    width: 1680px;
+    background-image: linear-gradient(to right, #CEFEFE, #DDF181);
+    margin: 100px auto;
+}
+
+.section_download_app>h2 {
+    position: relative;
+    top: 157px;
+    left: 134px;
+    font-family: Noto Serif;
+    font-weight: bolder;
+    font-size: 48px;
+    width: 619px;
+    color: #2C2C2C;
+}
+
+.section_download_app__link {
+    position: relative;
+    top: 157px;
+    left: 134px;
+    margin-right: 25px;
+}
+
+.section_download_app__link>img {
+    height: 60px;
+}
+
+.section_download_app__background-image {
+    position: relative;
+    bottom: 212px;
+    right: 0px;
+}

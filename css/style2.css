@@ -1,0 +1,230 @@
+            .logo {
+                position: absolute;
+                width: 174px;
+                height: 45px;
+                left: 120px;
+                top: 39px;
+            }
+            
+            .menu>ul {
+                position: absolute;
+                width: 433px;
+                height: 25px;
+                left: 743.5px;
+                top: 49px;
+                align-items: stretch;
+            }
+            
+            .menu>ul>li {
+                display: inline-block;
+            }
+            
+            .menu>ul>li>a {
+                color: #2C2C2C;
+                display: inline;
+                text-decoration: none;
+            }
+            
+            .menu>a {
+                position: absolute;
+                width: 130.76px;
+                height: 25px;
+                left: 1614px;
+                top: 49px;
+                text-decoration: none;
+            }
+            
+            .head1 {
+                position: absolute;
+                width: 804px;
+                height: 224px;
+                left: 255px;
+                top: 405px;
+                font-family: Noto Serif;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 84px;
+                line-height: 112px;
+                /* or 133% */
+                color: #2C2C2C;
+            }
+            
+            .banner {
+                position: absolute;
+                width: 1680px;
+                height: 1000px;
+                left: 120px;
+                top: 120px;
+                background: url(/img/hero-banner2.png)
+            }
+            
+            .diskovernow {
+                position: absolute;
+                width: 1185px;
+                height: 154px;
+                left: 615px;
+                top: 1043px;
+                background: #FFFFFF;
+                box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.2);
+                z-index: 1;
+            }
+            
+            .diskovernow>div>span {
+                position: absolute;
+                width: 87px;
+                height: 19px;
+                left: 660px;
+                top: 1088px;
+                font-family: Product Sans;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 19px;
+                color: #A79997;
+            }
+            
+            .diskovernow>div>select {
+                position: absolute;
+                width: 99px;
+                height: 24px;
+                left: 660px;
+                top: 1117px;
+                font-family: Noto Serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 18px;
+                line-height: 25px;
+                color: #FF715B;
+                z-index: 3;
+            }
+            
+            .item_of_section_1 {
+                /*  position: absolute;*/
+                width: 326px;
+                height: 326px;
+                /*left: 255px;
+            top: 1377px;*/
+                background: #F8F8F8;
+            }
+            
+            .section1 {
+                position: absolute;
+                left: 255px;
+                top: 1377px;
+            }
+            
+            .section1>ul>li {
+                display: inline-block;
+                font-family: Product Sans;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 26px;
+                /* or 144% */
+                text-align: center;
+                color: #A79997;
+            }
+            
+            .section1>ul>li>h2 {
+                font-family: Noto Serif;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 33px;
+                /* identical to box height */
+                text-align: center;
+                color: #2C2C2C;
+            }
+            
+            .section1>ul>li>img {
+                width: 100px;
+            }
+            
+            .section1 li:nth-child(1)>img {
+                width: 128px;
+            }
+            
+            .section1>ul {
+                align-items: stretch;
+                height: 326px;
+            }
+            
+            .section1 li:nth-child(2) {
+                background: #FFFFFF;
+            }
+            
+            .foot {
+                position: absolute;
+                width: 1680px;
+                height: 421px;
+                left: 120px;
+                top: 6453px;
+            }
+            
+            .about {
+                position: absolute;
+                width: 450px;
+                height: 274px;
+                left: 255px;
+                top: 6453px;
+            }
+            
+            .about>img {
+                /* width: 231px;
+                height: 60.74px;*/
+                left: 255px;
+                top: 6453px;
+            }
+            
+            .about>p {
+                font-family: Product Sans;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 26px;
+                /* or 144% */
+                color: #A79997;
+            }
+            
+            .about>a {
+                font-family: Product Sans;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 26px;
+                /* or 144% */
+                color: #A79997;
+            }
+            
+            .links {
+                position: absolute;
+                width: 183px;
+                height: 251px;
+                left: 991px;
+                top: 6470px;
+            }
+            
+            .links>p {
+                font-family: Noto Serif;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 28px;
+                line-height: 26px;
+                /* identical to box height, or 93% */
+                color: #000000;
+            }
+            
+            .links>ul>li {
+                font-family: Product Sans;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 42px;
+                /* or 233% */
+                color: #A79997;
+            }
+            
+            .links>ul>li:nth-child(3) {
+                color: #FF715B;
+                ;
+            }
